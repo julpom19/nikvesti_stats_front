@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5b65e89a-b2fe-4ef4-a42b-2098f854e8e2" name="hochu" url="http://hochutakoi.zzz.com.ua">
+        <fileTransfer host="hochutakoi.zzz.com.ua" port="21" rootFolder="/hochutakoi.zzz.com.ua/nikvesti">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
